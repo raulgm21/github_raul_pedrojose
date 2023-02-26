@@ -15,7 +15,7 @@ public class Github_raul_pedrojose {
      */
     public static void main(String[] args) {
         
-        // Modificación hecha por Pedro José
+        // Modificación hecha por Pedro José.
         System.out.print("Soy Pedro José");
         
     }
