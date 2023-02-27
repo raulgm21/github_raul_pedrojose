@@ -21,6 +21,12 @@ public class Github_raul_pedrojose {
         
         //Modificación hecha por Raúl
         System.out.print("Soy Raúl");
+        int numero = 1;
+        if(numero == 1){
+            System.out.print("Soy Raúl");
+        }else{
+            System.out.print("Soy Pedro José");
+        }
     }
     
 }
