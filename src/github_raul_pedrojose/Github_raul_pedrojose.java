@@ -21,7 +21,7 @@ public class Github_raul_pedrojose {
         //
         
         //Modificación hecha por Raúl
-        System.out.print("Soy Raúl Gómez");
+        System.out.print("Soy Raúl Gómez Muñoz");
         
         
     }
