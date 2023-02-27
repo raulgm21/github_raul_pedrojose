@@ -14,11 +14,14 @@ public class Github_raul_pedrojose {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Modificación hecha por Pedro José
         System.out.print("Soy Pedro José");
         
+        // Vamos a hacer que se añada
+        // nuevo contenido
+        //
+        
         //Modificación hecha por Raúl
-        System.out.print("Soy Raúl");
+        System.out.print("Soy Raúl Gómez");
         
         
     }
